@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\bin\Debug\net10.0\Week4_Homework2.exe
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\bin\Debug\net10.0\Week4_Homework2.deps.json
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\bin\Debug\net10.0\Week4_Homework2.runtimeconfig.json
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\bin\Debug\net10.0\Week4_Homework2.dll
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\bin\Debug\net10.0\Week4_Homework2.pdb
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.AssemblyInfo.cs
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.sourcelink.json
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.dll
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\refint\Week4_Homework2.dll
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.pdb
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\Week4_Homework2.genruntimeconfig.cache
+C:\Users\User\Desktop\Homeworks\Week4_Homework2\Week4_Homework2\obj\Debug\net10.0\ref\Week4_Homework2.dll
