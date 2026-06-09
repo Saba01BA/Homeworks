@@ -75,18 +75,89 @@
     #endregion
     }
 
-    #region Task 2
-    //Task 2 Class
-    public class Student
+
+    //Task 1 Class2
+    #region task 1 Class 2 Employee / PayCalculation Method
+    public class Employee
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public byte Age { get; set; }
-        public string Position { get; set; }
+        private string Position { get; set; }
+        private int[] WorkedHoursPerDay { get; set; } = new int[7]; //New Syntax
 
-        public int[] WorkedHoursPerDay { get; set; } = new int[7]; //New Syntax
+        public decimal PayRate;
+
+        public Employee(string firstName, string lastName, byte age, string position, int[] workedHoursPerDay)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            Age = age;
+            Position = position;
+            WorkedHoursPerDay = workedHoursPerDay;
+
+        }
+
+
+        //თანამშრომლის ხელფასის კალკულაციის მეთოდი
+        public void PayCalculation()
+        {
+            decimal payTotal = 0;
+            decimal payDaily = 0;
+            if(Position == "Manager" || Position =="manager")
+            {
+                PayRate = 40;
+            } 
+            else if (Position == "Developer" || Position == "developer")
+            {
+                PayRate = 30;
+            }
+            else if (Position == "Tester" || Position == "tester")
+            {
+                PayRate = 20;
+            }
+            else
+            {
+                PayRate = 10;
+            }
+
+            for (int i = 0; i < 7; i++)
+            {
+                if (i >= 5 && WorkedHoursPerDay[i] > 8)
+                {
+                    payDaily = 16 * PayRate + ((WorkedHoursPerDay[i] - 8) * (2 * PayRate + 10));
+                }
+                else if (i >= 5)
+                {
+                    payDaily = WorkedHoursPerDay[i] * PayRate * 2;
+                }
+                else if (WorkedHoursPerDay[i] > 8)
+                {
+                    payDaily = 8 * PayRate + (WorkedHoursPerDay[i] - 8 * (PayRate + 5));
+                }
+                else
+                {
+                    payDaily += PayRate * WorkedHoursPerDay[i];
+                }
+
+                payTotal += payDaily;
+               
+            }
+            if (WorkedHoursPerDay.Sum() > 50)
+            {
+                payTotal = payTotal / 100 * 120;
+            }
+
+            Console.WriteLine($"Total Pay is {payTotal}");
+        }
+
+    #endregion
+
+
+        
+
 
 
     }
-    #endregion
+
 }
