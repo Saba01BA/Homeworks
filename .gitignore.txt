@@ -1,0 +1,32 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Ex]ecutable/
+*.exe
+*.dll
+*.pdb
+*.msi
+
+## IDE specific files (Visual Studio, VS Code, Rider)
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Packages and dependencies
+*.nuget.props
+*.nuget.targets
+packages/
+node_modules/
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Local environment secrets
+appsettings.Development.json
+*.secrets.json
+.env
