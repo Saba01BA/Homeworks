@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            #region Task 1
+
             //Task 1 Program
             var newCompany = new Company();
             Console.WriteLine("Please Enter Total Salary");
@@ -29,9 +31,20 @@
             newCompany.TaxRate();
         }
 
+            #endregion
+
+        #region Task2
+
+
+
+
+        #endregion
+
     }
 
     //ყველა კლასს ამ ფაილში შევქმნი, დავალების შემოწმებაც გამარტივდება.
+
+    #region Task 1 Class
 
     //Task 1 Class
     public class Company
@@ -59,6 +72,21 @@
                 Console.WriteLine($"Total Salary after Tax: {TotalSalaryNett}");
             }
         }
+    #endregion
+    }
+
+    #region Task 2
+    //Task 2 Class
+    public class Student
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public byte Age { get; set; }
+        public string Position { get; set; }
+
+        public int[] WorkedHoursPerDay { get; set; } = new int[7]; //New Syntax
+
 
     }
+    #endregion
 }
