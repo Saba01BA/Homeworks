@@ -1,4 +1,6 @@
-﻿namespace HomeWork_9
+﻿using System.Runtime.Serialization;
+
+namespace HomeWork_9
 {
     internal class Program
     {
@@ -29,16 +31,27 @@
             }
 
             newCompany.TaxRate();
-        }
 
             #endregion
 
-        #region Task2
+
+            #region Task2
+           
+
+            var saba = new Student();
+            var teacher = new Teacher();
+            
+           
+            teacher.CertifiedCheck(saba.RandomSubject()); 
+
+
+
+            #endregion
+        }
 
 
 
 
-        #endregion
 
     }
 
@@ -153,11 +166,77 @@
 
     #endregion
 
-
         
 
 
 
+
+    }
+    #region Task 2
+    public class Student
+    {
+        public string name { get; set; }
+        public byte Age { get; set; }
+        public int EnrollmentYear { get; set; }
+
+        public string RandomSubject()
+        {
+
+            string[] subjects = new string[] { "Math", "Chemistry", "english", "Other" };
+            Random rnd = new Random();
+            int index = rnd.Next(subjects.Length);
+            string randomSubject = subjects[index];
+            return randomSubject;
+        }
+
+        public void YearsToStudy()
+        {
+            if (2026 - EnrollmentYear >= 4)
+            {
+                Console.WriteLine("You Already Finished Studying");
+            }
+            else
+            {
+                Console.WriteLine($"You have left {4 - (2026 - EnrollmentYear)} Year to study");
+            }
+
+        }
     }
 
+    public class Teacher
+    {
+        public string Name { get; set; }
+        public bool IsCertified { get; set; }
+
+        public void CertifiedCheck(string randomSubject) //ვერ ვხვდები კლასიდან კლასში როგორ დავაკონტაქტო ეს ორი მეთოდი ყველაზე სწორად.
+        {
+            if (randomSubject == "Math")
+            {
+                Random rnd = new Random();
+                int rnd1 = rnd.Next(100);
+                int rnd2 = rnd.Next(100);
+
+                Console.WriteLine($"{rnd1}+{rnd2}={rnd1 + rnd2}");
+
+            }
+
+            else if (randomSubject == "English")
+            {
+                Console.WriteLine("Hallo World");
+            }
+
+            else if (randomSubject == "Chemistry")
+            {
+                Console.WriteLine("H2O is Water");
+            }
+            else
+            {
+                IsCertified = false;
+                Console.WriteLine("Not Certified for the Subject");
+            }
+        } 
+    }
+
+
+    #endregion
 }
