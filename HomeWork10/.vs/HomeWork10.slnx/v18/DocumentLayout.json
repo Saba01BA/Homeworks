@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F12D379-46C3-4BF7-9CAD-3BDB1C0AF3D9}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F12D379-46C3-4BF7-9CAD-3BDB1C0AF3D9}|HomeWork10\\HomeWork10.csproj|solutionrelative:homework10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F12D379-46C3-4BF7-9CAD-3BDB1C0AF3D9}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\fileworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F12D379-46C3-4BF7-9CAD-3BDB1C0AF3D9}|HomeWork10\\HomeWork10.csproj|solutionrelative:homework10\\fileworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F12D379-46C3-4BF7-9CAD-3BDB1C0AF3D9}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F12D379-46C3-4BF7-9CAD-3BDB1C0AF3D9}|HomeWork10\\HomeWork10.csproj|solutionrelative:homework10\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\Class1.cs",
+              "RelativeDocumentMoniker": "HomeWork10\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\Class1.cs",
+              "RelativeToolTip": "HomeWork10\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:42:44.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWorker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\FileWorker.cs",
+              "RelativeDocumentMoniker": "HomeWork10\\FileWorker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\FileWorker.cs",
+              "RelativeToolTip": "HomeWork10\\FileWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:38:54.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork10\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\Program.cs",
+              "RelativeToolTip": "HomeWork10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:38:25.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
