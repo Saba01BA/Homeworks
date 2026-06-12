@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|solutionrelative:homework10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\microfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|solutionrelative:homework10\\microfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\ifinanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|solutionrelative:homework10\\ifinanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|c:\\users\\user\\desktop\\homeworks\\homework10\\homework10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318C5993-7B4F-BE73-C116-B7FDCE18E94C}|HomeWork10\\HomeWork10.csproj|solutionrelative:homework10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MicroFinance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\MicroFinance.cs",
+              "RelativeDocumentMoniker": "HomeWork10\\MicroFinance.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\MicroFinance.cs",
+              "RelativeToolTip": "HomeWork10\\MicroFinance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T19:27:57.078Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "HomeWork10\\Bank.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\Bank.cs",
               "RelativeToolTip": "HomeWork10\\Bank.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-12T19:01:48.332Z",
               "EditorCaption": ""
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\Program.cs",
               "RelativeDocumentMoniker": "HomeWork10\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HomeWork10\\HomeWork10\\Program.cs",
               "RelativeToolTip": "HomeWork10\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-12T18:38:25.664Z",
               "EditorCaption": ""

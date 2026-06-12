@@ -10,8 +10,9 @@ namespace HomeWork10
         {
             
             decimal percent = 5;
-            
-            decimal percentTotal=AmountPerMonth* month * percent/100;
+            decimal totalPay = AmountPerMonth * month;
+            decimal percentTotal = totalPay * 5 / 100 * month;
+          
             return percentTotal;
         }
 
