@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|c:\\users\\user\\desktop\\homeworks\\task- vehicle fleet system\\task- vehicle fleet system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|solutionrelative:task- vehicle fleet system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|c:\\users\\user\\desktop\\homeworks\\task- vehicle fleet system\\task- vehicle fleet system\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|solutionrelative:task- vehicle fleet system\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|c:\\users\\user\\desktop\\homeworks\\task- vehicle fleet system\\task- vehicle fleet system\\fleetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|solutionrelative:task- vehicle fleet system\\fleetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|c:\\users\\user\\desktop\\homeworks\\task- vehicle fleet system\\task- vehicle fleet system\\imaintainable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|solutionrelative:task- vehicle fleet system\\imaintainable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|c:\\users\\user\\desktop\\homeworks\\task- vehicle fleet system\\task- vehicle fleet system\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|solutionrelative:task- vehicle fleet system\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|c:\\users\\user\\desktop\\homeworks\\task- vehicle fleet system\\task- vehicle fleet system\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|solutionrelative:task- vehicle fleet system\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|c:\\users\\user\\desktop\\homeworks\\task- vehicle fleet system\\task- vehicle fleet system\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC1D2C7-F521-3570-0167-5909D0EB8854}|Task- Vehicle Fleet System\\Task- Vehicle Fleet System.csproj|solutionrelative:task- vehicle fleet system\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Truck.cs",
+              "RelativeDocumentMoniker": "Task- Vehicle Fleet System\\Truck.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Truck.cs",
+              "RelativeToolTip": "Task- Vehicle Fleet System\\Truck.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T10:30:19.825Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMaintainable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\IMaintainable.cs",
+              "RelativeDocumentMoniker": "Task- Vehicle Fleet System\\IMaintainable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\IMaintainable.cs",
+              "RelativeToolTip": "Task- Vehicle Fleet System\\IMaintainable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:45:02.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FleetManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\FleetManager.cs",
+              "RelativeDocumentMoniker": "Task- Vehicle Fleet System\\FleetManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\FleetManager.cs",
+              "RelativeToolTip": "Task- Vehicle Fleet System\\FleetManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:23:56.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Car.cs",
+              "RelativeDocumentMoniker": "Task- Vehicle Fleet System\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Car.cs",
+              "RelativeToolTip": "Task- Vehicle Fleet System\\Car.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:09:35.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "Task- Vehicle Fleet System\\ElectricCar.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\ElectricCar.cs",
+              "RelativeToolTip": "Task- Vehicle Fleet System\\ElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:57:28.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Task- Vehicle Fleet System\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Vehicle.cs",
+              "RelativeToolTip": "Task- Vehicle Fleet System\\Vehicle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T10:21:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Program.cs",
+              "RelativeDocumentMoniker": "Task- Vehicle Fleet System\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Task- Vehicle Fleet System\\Task- Vehicle Fleet System\\Program.cs",
+              "RelativeToolTip": "Task- Vehicle Fleet System\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T10:21:13.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

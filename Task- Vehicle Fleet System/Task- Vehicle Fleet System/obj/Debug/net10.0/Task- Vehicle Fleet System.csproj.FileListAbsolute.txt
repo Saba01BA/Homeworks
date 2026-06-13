@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\bin\Debug\net10.0\Task- Vehicle Fleet System.exe
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\bin\Debug\net10.0\Task- Vehicle Fleet System.deps.json
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\bin\Debug\net10.0\Task- Vehicle Fleet System.runtimeconfig.json
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\bin\Debug\net10.0\Task- Vehicle Fleet System.dll
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\bin\Debug\net10.0\Task- Vehicle Fleet System.pdb
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.AssemblyInfo.cs
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.sourcelink.json
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.dll
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\refint\Task- Vehicle Fleet System.dll
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.pdb
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\Task- Vehicle Fleet System.genruntimeconfig.cache
+C:\Users\User\Desktop\Homeworks\Task- Vehicle Fleet System\Task- Vehicle Fleet System\obj\Debug\net10.0\ref\Task- Vehicle Fleet System.dll
