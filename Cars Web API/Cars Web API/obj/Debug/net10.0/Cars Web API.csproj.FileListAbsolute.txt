@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Cars Web API.staticwebassets.endpoints.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Cars Web API.exe
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Cars Web API.deps.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Cars Web API.runtimeconfig.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Cars Web API.dll
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Cars Web API.pdb
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.AssemblyInfo.cs
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.sourcelink.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\scopedcss\bundle\Cars Web API.styles.css
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web.735DB4CD.Up2Date
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.dll
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\refint\Cars Web API.dll
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.pdb
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\Cars Web API.genruntimeconfig.cache
+C:\Users\User\Desktop\Homeworks\Cars Web API\Cars Web API\obj\Debug\net10.0\ref\Cars Web API.dll

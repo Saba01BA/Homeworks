@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homeworks\\Cars Web API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5779D13E-9954-40D0-BF9C-6A41052D8CCF}|Cars Web API\\Cars Web API.csproj|c:\\users\\user\\desktop\\homeworks\\cars web api\\cars web api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5779D13E-9954-40D0-BF9C-6A41052D8CCF}|Cars Web API\\Cars Web API.csproj|solutionrelative:cars web api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5779D13E-9954-40D0-BF9C-6A41052D8CCF}|Cars Web API\\Cars Web API.csproj|c:\\users\\user\\desktop\\homeworks\\cars web api\\cars web api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5779D13E-9954-40D0-BF9C-6A41052D8CCF}|Cars Web API\\Cars Web API.csproj|solutionrelative:cars web api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5779D13E-9954-40D0-BF9C-6A41052D8CCF}|Cars Web API\\Cars Web API.csproj|c:\\users\\user\\desktop\\homeworks\\cars web api\\cars web api\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5779D13E-9954-40D0-BF9C-6A41052D8CCF}|Cars Web API\\Cars Web API.csproj|solutionrelative:cars web api\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Cars Web API\\Cars Web API\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Cars Web API\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Cars Web API\\Cars Web API\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Cars Web API\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:03:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Cars Web API\\Cars Web API\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Cars Web API\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Cars Web API\\Cars Web API\\Services\\CarService.cs",
+              "RelativeToolTip": "Cars Web API\\Services\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:00:42.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\Cars Web API\\Cars Web API\\Models\\Cars.cs",
+              "RelativeDocumentMoniker": "Cars Web API\\Models\\Cars.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\Cars Web API\\Cars Web API\\Models\\Cars.cs",
+              "RelativeToolTip": "Cars Web API\\Models\\Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:58:49.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
