@@ -5,12 +5,6 @@ namespace BankingApp.Services
     public class AuthService
     {
         private readonly DataService _dataService;
-
-        public AuthService(DataService dataService)
-        {
-            _dataService = dataService;
-        }
-
         private readonly LoggerService _logger;
 
         public AuthService(DataService dataService, LoggerService logger)
