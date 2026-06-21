@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "smoke",
+    "isCompleted": true
+  },
+  {
+    "Name": "drink",
+    "isCompleted": false
+  },
+  {
+    "Name": "smoke vol.2",
+    "isCompleted": false
+  }
+]
