@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\models\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\models\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|c:\\users\\user\\desktop\\homeworks\\bankingapp\\bankingapp\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0AE714-AE23-1755-59C3-D179ADA64FA4}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Models\\Transaction.cs",
+              "RelativeToolTip": "BankingApp\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:48:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\BankService.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Services\\BankService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\BankService.cs",
+              "RelativeToolTip": "BankingApp\\Services\\BankService.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAADwvwsBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:48:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\DataService.cs",
+              "RelativeToolTip": "BankingApp\\Services\\DataService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:00:23.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "BankingApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:27:56.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Program.cs",
+              "RelativeToolTip": "BankingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:47:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Models\\BankAccount.cs",
+              "RelativeToolTip": "BankingApp\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:50:52.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardDetails.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Models\\CardDetails.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Models\\CardDetails.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Models\\CardDetails.cs",
+              "RelativeToolTip": "BankingApp\\Models\\CardDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:48:05.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Services\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\LoggerService.cs",
+              "RelativeToolTip": "BankingApp\\Services\\LoggerService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T11:14:45.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

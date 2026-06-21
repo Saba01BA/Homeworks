@@ -1,0 +1,52 @@
+{
+  "FirstName": "John",
+  "LastName": "Doe",
+  "Balance": {
+    "Gel": 1600,
+    "Usd": 0,
+    "Eur": 0
+  },
+  "CardDetails": {
+    "CardNumber": "1234-5678-9012-3456",
+    "ExpirationDate": "12/25",
+    "Cvc": "123"
+  },
+  "PinCode": "1111",
+  "TransactionHistory": [
+    {
+      "Type": "FillAmount",
+      "AmountGEL": 1500,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2024-01-01T10:00:00Z"
+    },
+    {
+      "Type": "FillAmount",
+      "AmountGEL": 100,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-20T11:27:21.8392681Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-20T11:27:34.1571091Z"
+    },
+    {
+      "Type": "ChangePin",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-20T11:30:02.7171088Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-20T11:36:31.5257513Z"
+    }
+  ]
+}
