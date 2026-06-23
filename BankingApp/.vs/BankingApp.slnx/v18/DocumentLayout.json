@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "BankingApp\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\Services\\AuthService.cs",
               "RelativeToolTip": "BankingApp\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T18:27:56.486Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "BankingApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T17:47:34.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T17:47:34.984Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "BankingApp\\Services\\LoggerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T11:14:45.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T11:14:45.455Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "BankingApp\\Models\\BankAccount.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T17:50:52.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T17:50:52.17Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "BankingApp\\Services\\DataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T18:00:23.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T18:00:23.803Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "BankingApp\\Services\\BankService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T18:48:41.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T18:48:41.997Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "BankingApp\\Models\\CardDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T17:48:05.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T17:48:05.515Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "BankingApp\\Models\\Transaction.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T17:48:54.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T17:48:54.928Z"
             }
           ]
         }

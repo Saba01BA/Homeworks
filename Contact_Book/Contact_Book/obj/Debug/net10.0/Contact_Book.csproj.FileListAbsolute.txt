@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\bin\Debug\net10.0\Contact_Book.exe
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\bin\Debug\net10.0\Contact_Book.deps.json
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\bin\Debug\net10.0\Contact_Book.runtimeconfig.json
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\bin\Debug\net10.0\Contact_Book.dll
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\bin\Debug\net10.0\Contact_Book.pdb
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\Contact_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\Contact_Book.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\Contact_Book.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\Contact_Book.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\Contact_Book.dll
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\refint\Contact_Book.dll
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\Contact_Book.pdb
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\Contact_Book.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\Contact_Book\Contact_Book\obj\Debug\net10.0\ref\Contact_Book.dll

@@ -2,7 +2,7 @@
   "FirstName": "John",
   "LastName": "Doe",
   "Balance": {
-    "Gel": 1600,
+    "Gel": 2600,
     "Usd": 0,
     "Eur": 0
   },
@@ -47,6 +47,34 @@
       "AmountUSD": 0,
       "AmountEUR": 0,
       "Timestamp": "2026-06-20T11:36:31.5257513Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-21T17:41:33.4979912Z"
+    },
+    {
+      "Type": "FillAmount",
+      "AmountGEL": 1000,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-21T17:42:01.186986Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-21T17:42:11.2652938Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-21T17:42:30.1235263Z"
     }
   ]
 }

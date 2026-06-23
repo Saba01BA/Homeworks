@@ -63,8 +63,7 @@
               "RelativeToolTip": "ToDo\\DataService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T14:45:49.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T14:45:49.79Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "ToDo\\data.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-20T12:12:19.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T12:12:19.986Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "ToDo\\TaskService.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAIwKcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T12:00:43.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T12:00:43.453Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "ToDo\\Task.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T11:49:04.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T11:49:04.54Z"
             },
             {
               "$type": "Document",
@@ -115,21 +111,19 @@
               "RelativeToolTip": "ToDo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T11:47:42.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T11:47:42.108Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ToDo",
+              "Title": "ToDo.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\ToDo\\ToDo\\ToDo.csproj",
               "RelativeDocumentMoniker": "ToDo\\ToDo.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\ToDo\\ToDo\\ToDo.csproj",
               "RelativeToolTip": "ToDo\\ToDo.csproj",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-20T14:45:34.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T14:45:34.378Z"
             }
           ]
         }
