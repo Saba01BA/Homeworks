@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\BankingApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\BankingApp\\BankingApp\\BankingApp.csproj",
       "projectName": "BankingApp",
-      "projectPath": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\BankingApp.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Projects\\BankingApp\\BankingApp\\BankingApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Homeworks\\BankingApp\\BankingApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Projects\\BankingApp\\BankingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

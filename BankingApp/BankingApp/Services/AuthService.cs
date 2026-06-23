@@ -36,6 +36,8 @@ namespace BankingApp.Services
 
             if (!cardValid)
             {
+                _logger.LogInfo("Card Details were not Correct");
+
                 Console.WriteLine();
                 Console.WriteLine("Please Provide Correct Data");
                 Console.WriteLine("Press any key to try again...");
@@ -52,6 +54,7 @@ namespace BankingApp.Services
 
             if (account.PinCode != pin)
             {
+                _logger.LogInfo("Card PinCode was not Correct");
                 Console.WriteLine();
                 Console.WriteLine("Please Provide Correct Pin");
                 Console.WriteLine("Press any key to try again...");

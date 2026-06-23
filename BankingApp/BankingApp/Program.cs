@@ -2,7 +2,7 @@
 using BankingApp.Services;
 
 LoggerService logger = new LoggerService();
-DataService dataService = new DataService(logger);
+DataService dataService = new DataService();
 AuthService authService = new AuthService(dataService, logger);
 BankService bankService = new BankService(dataService, logger);
 

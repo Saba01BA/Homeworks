@@ -1,9 +1,0 @@
-2026-06-21 21:41:12.651 +04:00 [INF] User John Doe logged in successfully.
-2026-06-21 21:41:29.310 +04:00 [INF] User John Doe logged in successfully.
-2026-06-21 21:41:33.511 +04:00 [INF] User checked balance. GEL: 1600
-2026-06-21 21:41:50.632 +04:00 [INF] User John Doe logged in successfully.
-2026-06-21 21:42:01.187 +04:00 [INF] User deposited 1000 GEL. New balance: 2600 GEL
-2026-06-21 21:42:10.170 +04:00 [INF] User John Doe logged in successfully.
-2026-06-21 21:42:11.266 +04:00 [INF] User checked balance. GEL: 2600
-2026-06-21 21:42:27.920 +04:00 [INF] User John Doe logged in successfully.
-2026-06-21 21:42:30.130 +04:00 [INF] User checked balance. GEL: 2600

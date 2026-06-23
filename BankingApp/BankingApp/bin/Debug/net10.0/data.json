@@ -2,7 +2,7 @@
   "FirstName": "John",
   "LastName": "Doe",
   "Balance": {
-    "Gel": 2600,
+    "Gel": 5500,
     "Usd": 0,
     "Eur": 0
   },
@@ -53,28 +53,91 @@
       "AmountGEL": 0,
       "AmountUSD": 0,
       "AmountEUR": 0,
-      "Timestamp": "2026-06-21T17:41:33.4979912Z"
+      "Timestamp": "2026-06-23T18:55:52.0407559Z"
     },
     {
-      "Type": "FillAmount",
+      "Type": "GetAmount",
       "AmountGEL": 1000,
       "AmountUSD": 0,
       "AmountEUR": 0,
-      "Timestamp": "2026-06-21T17:42:01.186986Z"
+      "Timestamp": "2026-06-23T18:56:09.9116325Z"
     },
     {
       "Type": "BalanceInquiry",
       "AmountGEL": 0,
       "AmountUSD": 0,
       "AmountEUR": 0,
-      "Timestamp": "2026-06-21T17:42:11.2652938Z"
+      "Timestamp": "2026-06-23T18:56:19.7817498Z"
+    },
+    {
+      "Type": "CurrencyConversion",
+      "AmountGEL": 100,
+      "AmountUSD": 0,
+      "AmountEUR": 34,
+      "Timestamp": "2026-06-23T18:57:00.4958409Z"
     },
     {
       "Type": "BalanceInquiry",
       "AmountGEL": 0,
       "AmountUSD": 0,
       "AmountEUR": 0,
-      "Timestamp": "2026-06-21T17:42:30.1235263Z"
+      "Timestamp": "2026-06-23T18:57:15.2578925Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-23T19:16:56.4840086Z"
+    },
+    {
+      "Type": "CurrencyConversion",
+      "AmountGEL": 0,
+      "AmountUSD": 37,
+      "AmountEUR": 34,
+      "Timestamp": "2026-06-23T19:19:08.1523616Z"
+    },
+    {
+      "Type": "CurrencyConversion",
+      "AmountGEL": 100,
+      "AmountUSD": 37,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-23T19:26:12.3112187Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-23T19:26:23.7858795Z"
+    },
+    {
+      "Type": "FillAmount",
+      "AmountGEL": 5000,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-23T19:26:38.9442132Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-23T19:50:20.2463851Z"
+    },
+    {
+      "Type": "GetAmount",
+      "AmountGEL": 100,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-23T19:50:38.6850831Z"
+    },
+    {
+      "Type": "BalanceInquiry",
+      "AmountGEL": 0,
+      "AmountUSD": 0,
+      "AmountEUR": 0,
+      "Timestamp": "2026-06-23T19:56:47.545527Z"
     }
   ]
 }

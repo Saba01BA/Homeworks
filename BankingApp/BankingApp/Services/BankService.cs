@@ -5,10 +5,9 @@ namespace BankingApp.Services
     public class BankService
     {
         private readonly DataService _dataService;
-
+        private readonly LoggerService _logger;
         private const double GEL_TO_USD = 0.37;
         private const double GEL_TO_EUR = 0.34;
-        private readonly LoggerService _logger;
 
         public BankService(DataService dataService, LoggerService logger)
         {
@@ -139,6 +138,8 @@ namespace BankingApp.Services
 
             if (!double.TryParse(input, out double amount) || amount <= 0)
             {
+                _logger.LogError ($"Tried to deposit Invalid Amount");
+
                 Console.WriteLine("\nInvalid amount.");
                 Console.ReadKey();
                 return;
@@ -202,13 +203,19 @@ namespace BankingApp.Services
         {
             Console.Clear();
             Console.WriteLine("CURRENCY CONVERSION");
-            Console.WriteLine($"Balance: {account.Balance.Gel} GEL");
-            Console.WriteLine("1. GEL → USD");
-            Console.WriteLine("2. GEL → EUR");
+            Console.WriteLine($"GEL: {account.Balance.Gel} | USD: {account.Balance.Usd} | EUR: {account.Balance.Eur}");
+            Console.WriteLine("1. GEL to USD");
+            Console.WriteLine("2. GEL to EUR");
+            Console.WriteLine("3. USD to GEL");
+            Console.WriteLine("4. USD to EUR");
+            Console.WriteLine("5. EUR to GEL");
+            Console.WriteLine("6. EUR to USD");
             Console.Write("\nChoose: ");
 
             string choice = Console.ReadLine() ?? "";
-            Console.Write("Enter amount in GEL: ");
+            string currency = choice == "1" || choice == "2" ? "GEL" :
+                  choice == "3" || choice == "4" ? "USD" : "EUR";
+            Console.Write($"Enter amount in {currency}: ");
             string input = Console.ReadLine() ?? "";
 
             if (!double.TryParse(input, out double amount) || amount <= 0)
@@ -218,31 +225,105 @@ namespace BankingApp.Services
                 return;
             }
 
-            if (amount > account.Balance.Gel)
-            {
-                Console.WriteLine("\n Insufficient funds.");
-                _logger.LogWarning("Conversion Failed - insufficient funds.");
-                Console.ReadKey();
-                return;
-            }
+           
 
             if (choice == "1")
             {
+                if (amount > account.Balance.Gel)
+                {
+                    Console.WriteLine("\n Insufficient funds.");
+                    _logger.LogWarning("Conversion Failed - insufficient funds.");
+                    Console.ReadKey();
+                    return;
+                }
+
                 double converted = Math.Round(amount * GEL_TO_USD, 2);
                 account.Balance.Gel -= amount;
                 account.Balance.Usd += converted;
                 SaveTransaction(account, "CurrencyConversion", amount, converted, 0);
                 _logger.LogInfo($"User converted {amount} GEL. Choice: {choice}");
-                Console.WriteLine($"\n{amount} GEL → {converted} USD");
+                Console.WriteLine($"\n{amount} GEL to {converted} USD");
             }
             else if (choice == "2")
             {
+                if (amount > account.Balance.Gel)
+                {
+                    Console.WriteLine("\n Insufficient funds.");
+                    _logger.LogWarning("Conversion Failed - insufficient funds.");
+                    Console.ReadKey();
+                    return;
+                }
+
                 double converted = Math.Round(amount * GEL_TO_EUR, 2);
                 account.Balance.Gel -= amount;
                 account.Balance.Eur += converted;
                 SaveTransaction(account, "CurrencyConversion", amount, 0, converted);
                 _logger.LogInfo($"User converted {amount} GEL. Choice: {choice}");
-                Console.WriteLine($"\n{amount} GEL → {converted} EUR");
+                Console.WriteLine($"\n{amount} GEL to {converted} EUR");
+            }
+            else if (choice == "3")
+            {
+                if (amount > account.Balance.Usd)
+                {
+                    Console.WriteLine("\n Insufficient funds.");
+                    _logger.LogWarning("Conversion Failed - insufficient funds.");
+                    Console.ReadKey();
+                    return;
+                }
+                double converted = Math.Round(amount / GEL_TO_USD, 2);
+                account.Balance.Usd -= amount;
+                account.Balance.Gel += converted;
+                SaveTransaction(account, "CurrencyConversion", converted, amount, 0);
+                _logger.LogInfo($"User converted {amount} USD to GEL.");
+                Console.WriteLine($"\n{amount} USD to {converted} GEL");
+            }
+            else if (choice == "4")
+            {
+                if (amount > account.Balance.Usd)
+                {
+                    Console.WriteLine("\n Insufficient funds.");
+                    _logger.LogWarning("Conversion Failed - insufficient funds.");
+                    Console.ReadKey();
+                    return;
+                }
+                double converted = Math.Round(amount * (GEL_TO_EUR / GEL_TO_USD), 2);
+                account.Balance.Usd -= amount;
+                account.Balance.Eur += converted;
+                SaveTransaction(account, "CurrencyConversion", 0, amount, converted);
+                _logger.LogInfo($"User converted {amount} USD to EUR.");
+                Console.WriteLine($"\n{amount} USD to {converted} EUR");
+            }
+            else if (choice == "5")
+            {
+                if (amount > account.Balance.Eur)
+                {
+                    Console.WriteLine("\n Insufficient funds.");
+                    _logger.LogWarning("Conversion Failed - insufficient funds.");
+                    Console.ReadKey();
+                    return;
+                }
+                double converted = Math.Round(amount / GEL_TO_EUR, 2);
+                account.Balance.Eur -= amount;
+                account.Balance.Gel += converted;
+                SaveTransaction(account, "CurrencyConversion", converted, 0, amount);
+                _logger.LogInfo($"User converted {amount} EUR to GEL.");
+                Console.WriteLine($"\n{amount} EUR to {converted} GEL");
+            }
+            else if (choice == "6")
+            {
+                if (amount > account.Balance.Eur)
+                {
+                    Console.WriteLine("\n Insufficient funds.");
+                    _logger.LogWarning("Conversion Failed - insufficient funds.");
+                    Console.ReadKey();
+                    return;
+                }
+                double converted = Math.Round(amount * (GEL_TO_USD / GEL_TO_EUR), 2);
+                account.Balance.Eur -= amount;
+                account.Balance.Usd += converted;
+                SaveTransaction(account, "CurrencyConversion", 0, converted, amount);
+                _logger.LogInfo($"User converted {amount} EUR to USD.");
+                Console.WriteLine($"\n{amount} EUR to {converted} USD");
             }
             else
             {
