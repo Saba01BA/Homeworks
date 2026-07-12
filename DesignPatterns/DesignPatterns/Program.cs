@@ -1,4 +1,6 @@
-﻿namespace DesignPatterns
+﻿using System.Security.Cryptography;
+
+namespace DesignPatterns
 {
     #region Task 1 
     public interface IChair
@@ -151,14 +153,86 @@
     }
 
     #endregion
+
+    #region Task 2
+
+    public interface IAct
+    {
+        void Act();
+        
+    }
+    public class MainActor() : IAct
+    {
+        public void Act()
+        {
+            Console.WriteLine("Main Actor is Acting in a Normal Scene");
+        }
+    }
+    public class StuntDouble() : IAct
+    {
+        public void Act() => ActDangerous();
+     
+        public void ActDangerous()
+        {
+            Console.WriteLine("The Stunt Double is acting in a Dangerous Scene");
+        }
+    }
+
+    public class ActorProxy : IAct
+    {
+        private readonly MainActor _mainActor;
+        private readonly StuntDouble _stuntDouble;
+        private readonly bool _isDangerous;
+       
+        public ActorProxy(MainActor mainActor,StuntDouble stuntDouble, bool isDangerous)
+        {
+            _mainActor = mainActor;
+            _stuntDouble = stuntDouble;
+            _isDangerous = isDangerous;
+        }
+        public void Act()
+        {
+            if (_isDangerous)
+            {
+                _stuntDouble.Act();
+            }
+            else
+            {
+                _mainActor.Act();
+            }
+        }
+    }
+
+    #endregion
     internal class Program
     {
         static void Main(string[] args)
         {
+            var mainActor = new MainActor();
+            var stuntDouble = new StuntDouble();
+            bool isDangerous;
+            Console.WriteLine("Hello Director, is the scene Dangerous? (Y/N)");
+            var answer = (Console.ReadLine() ?? "").ToLower().Trim();
+            
+            if (answer == "y")
+            {
+                isDangerous = true;
+            }
+           else  if (answer == "n")
+            {
+                isDangerous = false;
+            }
+            else
+            {
+                Console.WriteLine("Wrong answer, Exiting");
+                return;
+            }
+
+            var actorProxy = new ActorProxy(mainActor, stuntDouble, isDangerous);
+            actorProxy.Act();
 
 
-
-#region Task 1 (vol 2)
+            #region Task 1 (vol 2)
             var victorianFactory = new VictorianFurnitureFactory();
             var modernFactory = new ModernFurnitureFactory();
             var artDecoFactory = new ArtDecoFurnitureFactory();
