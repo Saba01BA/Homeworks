@@ -1,5 +1,7 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System.IO.Compression;
+using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography;
+using System.Text.Json;
 
 namespace DesignPatterns
 {
@@ -287,10 +289,105 @@ namespace DesignPatterns
     }
 
     #endregion
-        internal class Program
+
+    #region Task 4
+
+    public interface IFileAction
+    {
+        void Execute(string filePath);
+    }
+    public class TxtAction : IFileAction
+    {
+        public void Execute(string filePath)
+        {
+            if (!File.Exists(filePath))
+            {
+                Console.WriteLine("File doesnt Exist");
+                return;
+            }
+            File.Delete(filePath);
+           
+        }
+    }
+    public class JsonAction : IFileAction
+    {
+        public void Execute(string filePath)
+        {
+            if (!File.Exists(filePath))
+            {
+                Console.WriteLine("File doesntExist");
+                return;
+            }
+            var jsonString = File.ReadAllText(filePath);
+            Console.WriteLine(jsonString);
+        }
+    }
+    public class ZipAction : IFileAction
+    {
+        public void Execute(string filePath)
+        {
+            if (!File.Exists(filePath))
+            {
+                Console.WriteLine("File doesnt Exist");
+                return;
+            }
+            var directory = Path.GetDirectoryName(filePath) ?? "";
+            var backUpPath = Path.Combine(directory, "backup");
+
+            Directory.CreateDirectory(backUpPath);
+            ZipFile.ExtractToDirectory(filePath, backUpPath);
+        }
+    }
+
+    public class DictionaryHold:IFileAction
+    {
+        private readonly Dictionary<string, IFileAction> _actions;
+
+        public DictionaryHold(ZipAction zipAction, TxtAction txtAction, JsonAction jsonAction)
+        {
+            _actions = new Dictionary<string, IFileAction>
+    {
+        { ".zip", zipAction },
+        { ".txt", txtAction },
+        { ".json", jsonAction }
+    };
+        }
+
+        public void Execute(string filePath)
+        {
+            var extension = Path.GetExtension(filePath);
+
+            if (_actions.TryGetValue(extension, out var action))
+            {
+                action.Execute(filePath);
+            }
+            else
+            {
+                Console.WriteLine("Unsupported file extension.");
+            }
+        }
+    }
+    
+
+    #endregion
+    internal class Program
     {
         static void Main(string[] args)
         {
+            #region Task 4 (vol 2)
+
+            Console.WriteLine("Enter the full path of the file to process:");
+            var filePath = Console.ReadLine() ?? "";
+
+            var zipAction = new ZipAction();
+            var txtAction = new TxtAction();
+            var jsonAction = new JsonAction();
+
+            var dispatcher = new DictionaryHold(zipAction, txtAction, jsonAction);
+            dispatcher.Execute(filePath);
+
+            #endregion
+
             #region task 3 (vol 2)
 
             Console.WriteLine("Welcome to the PDF/HTML Generator");
