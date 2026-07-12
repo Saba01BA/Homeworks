@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography;
+﻿using System.Reflection.Metadata.Ecma335;
+using System.Security.Cryptography;
 
 namespace DesignPatterns
 {
@@ -204,10 +205,128 @@ namespace DesignPatterns
     }
 
     #endregion
-    internal class Program
+
+    #region Task 3
+
+    public class Header
+    {
+        public string Content { get; set; } = string.Empty;
+        public Header(string content)
+        {
+            Content = content;
+        }
+        public string PDFRender()
+        {
+            var PDFRendered = $"Header: {Content}";
+                return PDFRendered;
+        }
+        public string HTMLRender()
+        {
+            var HTMLrendered = $"<header>{Content}</header>";
+            return HTMLrendered;
+        }
+    }
+    public class Body
+    {
+        public string Content { get; set; }
+        public Body(string content)
+        {
+            Content = content;
+        }
+        public string PDFRender()
+        {
+            var PDFRendered = $"Body:\n {Content}";
+            return PDFRendered;
+        }
+        public string HTMLRender()
+        {
+            var HTMLrendered = $"<body>\n{Content}\n</body>";
+            return HTMLrendered;
+        }
+    }
+    public class Footer
+    {
+        public string Content { get; set; }
+        public Footer(string content)
+        {
+            Content = content;
+        }
+        public string PDFRender()
+        {
+            var PDFRendered = $"Footer: {Content}";
+            return PDFRendered;
+        }
+        public string HTMLRender()
+        {
+            var HTMLrendered = $"<footer>{Content}</footer>";
+            return HTMLrendered;
+        }
+    }
+
+    public class ReportGenerator
+    {
+        private readonly Header _header;
+        private readonly Body _body;
+        private readonly Footer _footer;
+        public ReportGenerator(Header header, Body body, Footer footer)
+        {
+            _header = header;
+            _body = body;
+            _footer = footer;
+        }
+         public string PDFGenerate()
+        {
+            return $"{_header.PDFRender()}\n{_body.PDFRender()}\n{_footer.PDFRender()}";
+        }  
+        
+        public string HTMLGenerate()
+        {
+            return $"{_header.HTMLRender()}\n{_body.HTMLRender()}\n{_footer.HTMLRender()}";
+        }
+
+    }
+
+    #endregion
+        internal class Program
     {
         static void Main(string[] args)
         {
+            #region task 3 (vol 2)
+
+            Console.WriteLine("Welcome to the PDF/HTML Generator");
+            Console.WriteLine("=================================");
+            Console.WriteLine("Enter Header:");
+            var header =  Console.ReadLine()?? "";
+            Console.Clear();
+            Console.WriteLine("Enter Body: ");
+            var body = Console.ReadLine() ?? "";
+            Console.Clear();
+            Console.WriteLine("Enter Footer: ");
+            var footer = Console.ReadLine() ?? "";
+            Console.Clear();
+            Console.WriteLine("PDF or HTML (1/2)");
+            var userChoice = Console.ReadLine()?? "";
+            Console.Clear();
+            var reportGenerator = new ReportGenerator(
+                new Header(header),
+                new Body(body),
+                new Footer(footer));
+            if (userChoice == "1")
+            {
+                Console.WriteLine(reportGenerator.PDFGenerate());
+            }
+            else if (userChoice == "2")
+            {
+                Console.WriteLine(reportGenerator.HTMLGenerate());
+            }
+            else
+            {
+                Console.WriteLine("Invalid Option, Exiting");
+                return;
+            }
+            #endregion
+
+            #region task 2 (vol 2)
             var mainActor = new MainActor();
             var stuntDouble = new StuntDouble();
             bool isDangerous;
@@ -230,7 +349,7 @@ namespace DesignPatterns
 
             var actorProxy = new ActorProxy(mainActor, stuntDouble, isDangerous);
             actorProxy.Act();
-
+            #endregion
 
             #region Task 1 (vol 2)
             var victorianFactory = new VictorianFurnitureFactory();
