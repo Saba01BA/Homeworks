@@ -1,3 +1,5 @@
+using HOMEWORK_15__Doctor_Appointment_Tool.Controllers;
+
 namespace HOMEWORK_15__Doctor_Appointment_Tool
 {
     public class Program
@@ -8,6 +10,7 @@ namespace HOMEWORK_15__Doctor_Appointment_Tool
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IAppointmentService, AppointmentServiceJson>();
 
             var app = builder.Build();
 
