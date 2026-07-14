@@ -22,7 +22,6 @@ C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\scopedcss\bundle\HOMEWORK_15 _Doctor_Appointment_Tool.styles.css
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\scopedcss\projectbundle\HOMEWORK_15 _Doctor_Appointment_Tool.bundle.scp.css
-C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\compressed\oizipmg5m5-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\compressed\y6bwb8bvoi-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\compressed\i0ybqxoda5-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\compressed\y4vsf0qct2-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -97,3 +96,5 @@ C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\HOMEWORK_15 _Doctor_Appointment_Tool.pdb
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\HOMEWORK_15 _Doctor_Appointment_Tool.genruntimeconfig.cache
 C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\ref\HOMEWORK_15 _Doctor_Appointment_Tool.dll
+C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\bin\Debug\net10.0\appointments.json
+C:\Users\User\Desktop\Homeworks\HOMEWORK_15 _Doctor_Appointment_Tool\HOMEWORK_15 _Doctor_Appointment_Tool\obj\Debug\net10.0\compressed\oizipmg5m5-{0}-7fs3j59bzk-7fs3j59bzk.gz

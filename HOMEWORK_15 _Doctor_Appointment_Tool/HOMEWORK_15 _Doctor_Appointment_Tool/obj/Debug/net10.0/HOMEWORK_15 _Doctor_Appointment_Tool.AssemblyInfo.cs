@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HOMEWORK_15 _Doctor_Appointment_Tool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cab95434623fa42956ccd8fc8b873f78fa28e4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f93112bccf56b19179ae7862c48df13208276c0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HOMEWORK_15 _Doctor_Appointment_Tool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HOMEWORK_15 _Doctor_Appointment_Tool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

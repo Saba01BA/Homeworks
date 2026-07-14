@@ -1,0 +1,51 @@
+﻿
+@model HOMEWORK_15__Doctor_Appointment_Tool.Models.Appointment
+@{
+}
+<form asp-action="Book" method="post">
+    <div class="container">
+    <div>
+        <label asp-for="Patient.FirstName"></label>
+        <input asp-for="Patient.FirstName" />
+        <span asp-validation-for="Patient.FirstName"></span>
+    </div>
+    <div>
+        <label asp-for="Patient.LastName"></label>
+        <input asp-for="Patient.LastName" />
+        <span asp-validation-for="Patient.LastName"></span>
+    </div>
+        <div>
+            <label asp-for="Doctor.Type"></label>
+            <select asp-for="Doctor.Type">
+                <option value="">-- Select Doctor --</option>
+                <option value="Dentist">Dentist</option>
+                <option value="Cardiologist">Cardiologist</option>
+                <option value="Dermatologist">Dermatologist</option>
+                <option value="General Practitioner">General Practitioner</option>
+            </select>
+            <span asp-validation-for="Doctor.Type"></span>
+        </div>
+
+        <div>
+            <label asp-for="Time"></label>
+            <select asp-for="Time">
+                <option value="">-- Select Time --</option>
+                <option value="10:00">10:00</option>
+                <option value="11:00">11:00</option>
+                <option value="12:00">12:00</option>
+                <option value="13:00">13:00</option>
+                <option value="14:00">14:00</option>
+                <option value="15:00">15:00</option>
+                <option value="16:00">16:00</option>
+                <option value="17:00">17:00</option>
+                <option value="18:00">18:00</option>
+                <option value="19:00">19:00</option>
+            </select>
+            <span asp-validation-for="Time"></span>
+        </div>
+
+    </div>
+
+    <button type="submit">Book Appointment</button>
+
+</form>

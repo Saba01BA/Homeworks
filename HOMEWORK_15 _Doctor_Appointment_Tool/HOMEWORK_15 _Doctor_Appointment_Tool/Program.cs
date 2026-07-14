@@ -1,4 +1,5 @@
 using HOMEWORK_15__Doctor_Appointment_Tool.Controllers;
+using HOMEWORK_15__Doctor_Appointment_Tool.Controllers.Middleware;
 
 namespace HOMEWORK_15__Doctor_Appointment_Tool
 {
@@ -24,10 +25,10 @@ namespace HOMEWORK_15__Doctor_Appointment_Tool
             app.UseAuthorization();
 
             app.MapStaticAssets();
+            app.UseMiddleware<BookingCheckMiddleware>();
             app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
-                .WithStaticAssets();
+      name: "default",
+      pattern: "{controller=Appointment}/{action=Book}/{id?}");
 
             app.Run();
         }
