@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\validappointmenttimeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\validappointmenttimeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\controllers\\appointmentservicejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\controllers\\appointmentservicejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\controllers\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\controllers\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\validappointmenttimeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\validappointmenttimeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F06A233-A555-411D-9857-2B3489C6FE96}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|c:\\users\\user\\desktop\\homeworks\\homework_15 _doctor_appointment_tool\\homework_15 _doctor_appointment_tool\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D73A261-775A-8F8C-80AC-AEF6217D2988}|HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool.csproj|solutionrelative:homework_15 _doctor_appointment_tool\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppointmentServiceJson.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\AppointmentServiceJson.cs",
+              "RelativeDocumentMoniker": "HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\AppointmentServiceJson.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\AppointmentServiceJson.cs",
+              "RelativeToolTip": "HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\AppointmentServiceJson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:38:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\IAppointmentService.cs",
+              "RelativeToolTip": "HOMEWORK_15 _Doctor_Appointment_Tool\\Controllers\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:36:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ValidAppointmentTimeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\ValidAppointmentTimeAttribute.cs",
               "RelativeDocumentMoniker": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\ValidAppointmentTimeAttribute.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\ValidAppointmentTimeAttribute.cs",
               "RelativeToolTip": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\ValidAppointmentTimeAttribute.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T18:15:00.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Doctor.cs",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T17:58:55.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T17:58:55.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Appointment.cs",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Appointment.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T17:53:10.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T17:53:10.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\HOMEWORK_15 _Doctor_Appointment_Tool\\HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Patient.cs",
@@ -77,8 +109,7 @@
               "RelativeToolTip": "HOMEWORK_15 _Doctor_Appointment_Tool\\Models\\Patient.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T17:51:07.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T17:51:07.642Z"
             }
           ]
         }
