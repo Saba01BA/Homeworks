@@ -6,6 +6,8 @@ namespace WebApplication1.Service
     {
         void Save(Person person);
         List<Person> Load();
-        void SaveAll(List<Person> people);
+        Person? GetById(int id);
+        bool Update(int id, Person updatedPerson);
+        bool Delete(int id);
     }
 }

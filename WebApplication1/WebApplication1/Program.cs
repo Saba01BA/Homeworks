@@ -1,4 +1,5 @@
 
+using RespondentDataTracker.Context;
 using WebApplication1.Service;
 
 namespace WebApplication1
@@ -11,7 +12,11 @@ namespace WebApplication1
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-            builder.Services.AddScoped<IRespondentDataService, RespondentDataServiceJson>();
+            builder.Services.AddDbContext<PersonContext>();
+
+            builder.Services.AddScoped<
+                IRespondentDataService,
+                RespondentDataServiceDatabase>();
 
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -23,6 +28,10 @@ namespace WebApplication1
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
+                app.UseSwaggerUI(options =>
+                {
+                    options.SwaggerEndpoint("/openapi/v1.json", "My API v1");
+                });
             }
 
             app.UseHttpsRedirection();

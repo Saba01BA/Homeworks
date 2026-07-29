@@ -27,27 +27,24 @@ namespace WebApplication1.Controllers
         }
       
 
-        [HttpGet("{id}")] //get by ID (should return a person on the entered Index)
+        [HttpGet("{id}")]
         public IActionResult ViewRespondents(int id)
         {
-            var list = _respondentDataService.Load();
-            if (id < 0 || id >= list.Count)
-                return NotFound($"No respondent at index {id}");
-            return Ok(list[id]);
+            var person = _respondentDataService.GetById(id);
+            if (person is null)
+                return NotFound($"No respondent with ID {id}");
+
+            return Ok(person);
         }
 
         [HttpDelete("{id}")]
         public IActionResult DeleteByID(int id)
         {
 
-            var list = _respondentDataService.Load();
-            if (id < 0 || id >= list.Count)
-                return NotFound($"No respondent at index {id}");
+            if (!_respondentDataService.Delete(id))
+                return NotFound($"No respondent with ID {id}");
 
-
-            list.RemoveAt(id);
-            _respondentDataService.SaveAll(list);
-            return Ok(list);
+            return NoContent();
         }
 
         [HttpPut("{id}")]
@@ -55,12 +52,10 @@ namespace WebApplication1.Controllers
         {
             if (!ModelState.IsValid)
                 return BadRequest();
-            var list=_respondentDataService.Load();
-            if (id<0 || id>= list.Count)
-                return NotFound($"No Respond at Index {id}");
-            list[id] = updatedPerson;
-            _respondentDataService.SaveAll(list);
-            return Ok(list);
+            if (!_respondentDataService.Update(id, updatedPerson))
+                return NotFound($"No respondent with ID {id}");
+
+            return Ok(_respondentDataService.GetById(id));
 
         }
 
@@ -69,7 +64,7 @@ namespace WebApplication1.Controllers
         {
             var list = _respondentDataService.Load();
             if (!string.IsNullOrEmpty(city))
-                list = list.Where(p => p.PersonAdress.City.Equals(city, StringComparison.OrdinalIgnoreCase)).ToList();
+                list = list.Where(p => p.PersonAdress.City.Contains(city, StringComparison.OrdinalIgnoreCase)).ToList();
             if (minSalary.HasValue)
                 list = list.Where(p => p.Salary >= minSalary).ToList();
             if (maxSalary.HasValue)

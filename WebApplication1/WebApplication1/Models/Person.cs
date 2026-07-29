@@ -5,6 +5,7 @@ namespace WebApplication1.Models
 {
     public class Person
     {
+        public int Id { get; set; }
         [Required]
         [DateTimeValidation(ErrorMessage ="Date can't be in Future")]
         public DateTime CreateDate { get; set; }
@@ -23,6 +24,6 @@ namespace WebApplication1.Models
         [Range(0.0,10000.0,ErrorMessage ="Salary can't be over 10000.0")]
         public Double Salary { get; set; }
 
-        public Adress PersonAdress { get; set; }
+        public Adress PersonAdress { get; set; } = new();
     }
 }

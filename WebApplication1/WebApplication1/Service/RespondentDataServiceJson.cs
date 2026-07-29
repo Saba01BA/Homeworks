@@ -11,6 +11,10 @@ namespace WebApplication1.Service
             if (File.Exists("Respondents.json"))
             {
                 string json = File.ReadAllText("Respondents.json");
+
+                if (string.IsNullOrWhiteSpace(json))
+                    return new List<Person>();
+
                 var list = JsonSerializer.Deserialize<List<Person>>(json);
                 if (list == null)
                     return new List<Person>();
@@ -27,10 +31,34 @@ namespace WebApplication1.Service
             File.WriteAllText("Respondents.json", json);
         }
 
-        public void SaveAll(List<Person> people)
+        public Person? GetById(int id)
         {
-            string json = JsonSerializer.Serialize(people);
-            File.WriteAllText("Respondents.json", json);
+            return Load().FirstOrDefault(person => person.Id == id);
+        }
+
+        public bool Update(int id, Person updatedPerson)
+        {
+            var people = Load();
+            var index = people.FindIndex(person => person.Id == id);
+            if (index < 0)
+                return false;
+
+            updatedPerson.Id = id;
+            people[index] = updatedPerson;
+            File.WriteAllText("Respondents.json", JsonSerializer.Serialize(people));
+            return true;
+        }
+
+        public bool Delete(int id)
+        {
+            var people = Load();
+            var person = people.FirstOrDefault(person => person.Id == id);
+            if (person is null)
+                return false;
+
+            people.Remove(person);
+            File.WriteAllText("Respondents.json", JsonSerializer.Serialize(people));
+            return true;
         }
     }
 }
