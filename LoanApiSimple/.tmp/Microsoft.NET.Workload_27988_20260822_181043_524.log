@@ -1,0 +1,14 @@
+[2026-08-22 18:10:43.527] [00006D54] === Logging started ===
+[2026-08-22 18:10:43.533] [00006D54] Executing: "C:\Program Files\dotnet\dotnet.exe" test LoanApi.Tests\LoanApi.Tests.csproj --no-restore --artifacts-path C:\Users\User\Desktop\LoanApiSimple\.artifacts --verbosity normal, PID: 27988, PPID: 17696
+[2026-08-22 18:10:43.536] [00006D54] IsElevated: False
+[2026-08-22 18:10:43.536] [00006D54] Is64BitProcess: True
+[2026-08-22 18:10:43.536] [00006D54] RebootPending: True
+[2026-08-22 18:10:43.536] [00006D54] ProcessorArchitecture: amd64
+[2026-08-22 18:10:43.536] [00006D54] HostArchitecture: x64
+[2026-08-22 18:10:43.536] [00006D54] SdkDirectory: 10.0.302
+[2026-08-22 18:10:43.536] [00006D54] VerifySignatures: False
+[2026-08-22 18:10:43.536] [00006D54] SDK feature band: 10.0.300
+[2026-08-22 18:10:43.978] [00006D54] Shutting down
+[2026-08-22 18:10:43.978] [00006D54] Shutdown completed.
+[2026-08-22 18:10:43.978] [00006D54] Restart required: False
+[2026-08-22 18:10:43.978] [00006D54] === Logging ended ===

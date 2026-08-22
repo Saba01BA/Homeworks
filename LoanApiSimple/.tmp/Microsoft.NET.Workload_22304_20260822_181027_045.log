@@ -1,0 +1,14 @@
+[2026-08-22 18:10:27.047] [00005720] === Logging started ===
+[2026-08-22 18:10:27.055] [00005720] Executing: "C:\Program Files\dotnet\dotnet.exe" test LoanApiSimple.slnx --no-restore --artifacts-path .artifacts, PID: 22304, PPID: 30636
+[2026-08-22 18:10:27.056] [00005720] IsElevated: False
+[2026-08-22 18:10:27.056] [00005720] Is64BitProcess: True
+[2026-08-22 18:10:27.056] [00005720] RebootPending: True
+[2026-08-22 18:10:27.056] [00005720] ProcessorArchitecture: amd64
+[2026-08-22 18:10:27.056] [00005720] HostArchitecture: x64
+[2026-08-22 18:10:27.056] [00005720] SdkDirectory: 10.0.302
+[2026-08-22 18:10:27.056] [00005720] VerifySignatures: False
+[2026-08-22 18:10:27.056] [00005720] SDK feature band: 10.0.300
+[2026-08-22 18:10:27.851] [00005720] Shutting down
+[2026-08-22 18:10:27.851] [00005720] Shutdown completed.
+[2026-08-22 18:10:27.851] [00005720] Restart required: False
+[2026-08-22 18:10:27.851] [00005720] === Logging ended ===

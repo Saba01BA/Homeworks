@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\migrations\\20260729174045_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\migrations\\20260729174045_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\migrations\\20260729181107_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\migrations\\20260729181107_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\context\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\context\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\controllers\\respondentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\controllers\\respondentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +11,40 @@
       "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\context\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\context\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\migrations\\20260729174045_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\migrations\\20260729174045_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\migrations\\20260729181107_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|solutionrelative:webapplication1\\migrations\\20260729181107_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B1AC0DB-52AA-9E7C-A265-84AD13AC29B6}|WebApplication1\\RespondentDataTracker.csproj|c:\\users\\user\\desktop\\homeworks\\webapplication1\\webapplication1\\respondentdatatracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,19 +58,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260729181107_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T18:11:08.045Z"
+              "WhenOpened": "2026-08-09T15:25:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:57:01.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,46 +93,9 @@
               "RelativeDocumentMoniker": "WebApplication1\\Context\\PersonContext.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Context\\PersonContext.cs",
               "RelativeToolTip": "WebApplication1\\Context\\PersonContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-29T17:10:21.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RespondentController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Controllers\\RespondentController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RespondentController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Controllers\\RespondentController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\RespondentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T15:13:48.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260729174045_MyFirstMigration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T17:40:45.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T17:57:01.357Z"
             },
             {
               "$type": "Document",
@@ -115,7 +111,92 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RespondentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Controllers\\RespondentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RespondentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Controllers\\RespondentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\RespondentController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:13:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Service\\TokenService.cs",
+              "RelativeToolTip": "WebApplication1\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T15:35:44.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Models\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Models\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T15:29:27.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Models\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Models\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T15:30:16.149Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T15:36:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260729181107_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260729181107_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T18:11:08.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260729174045_MyFirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260729174045_MyFirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:40:45.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "RespondentDataTracker.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Homeworks\\WebApplication1\\WebApplication1\\RespondentDataTracker.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\RespondentDataTracker.csproj",
